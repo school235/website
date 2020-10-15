@@ -37,7 +37,7 @@ const createSnapshot = function() {
         });
         
         fs.writeFileSync(ROOT + '/photos/data.json', JSON.stringify(jsonData));
-        console.log(chalk.green('Сканирование закончено\nВызовите команду "push", чтобы отправить изменения на сервер'));
+        console.log(chalk.green('Сканирование завершено\nВызовите команду "push", чтобы отправить изменения на сервер'));
     }
     catch (e) {
         console.error(chalk.red('Smth went wrong!'));
