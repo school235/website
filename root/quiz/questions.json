@@ -1,0 +1,85 @@
+[{
+    "question": "Хто із цих козаків, якщо вірити народній пісні, проміняв жінку на тютюн та люльку?",
+    "photo": "FFBECA12-4C35-467C-B49B-E71A2AB3B18E.png",
+    "answers": [{
+        "text": "Петро Сагайдачний",
+        "isRight": true
+    }, {
+        "text": "Петро Дорошенко ",
+        "isRight": false
+    }, {
+        "text": "Іван Сірко",
+        "isRight": false
+    }]
+}, {
+    "question": "Як називалися козацькі човни?",
+    "photo": "DE96B480-A5BD-4F81-8649-78E046DA97EC.png",
+    "answers": [{
+        "text": "чайки",
+        "isRight": true
+    }, {
+        "text": "лелеки",
+        "isRight": false
+    }, {
+        "text": "горобці",
+        "isRight": false
+    }]
+},
+{
+    "question": "Кому запорозькі козаки писали листа на відомій картині Іллі Рєпіна?",
+    "photo": "85FFB008-1752-4963-8BC7-10AB5E730D7C_w1024.jpg",
+    "answers": [{
+        "text": "польському королеві",
+        "isRight": false
+    }, {
+        "text": "турецькому султанові",
+        "isRight": true
+    }, {
+        "text": "московському царю",
+        "isRight": false
+    }]
+},
+{
+    "question": "Хто зображений на фото?",
+    "photo": "22_etsy_com_bogdan_hmel_1-kopyya.jpg",
+    "answers": [{
+        "text": "Богдан Хмельницький",
+        "isRight": true
+    }, {
+        "text": "Юрій Хмельницький",
+        "isRight": false
+    }, {
+        "text": "Пилип Орлик",
+        "isRight": false
+    }]
+},
+{
+    "question": "Хто переміг у битві під Жовтими Водами?",
+    "photo": "468B22E6-D3FF-49DC-9013-2BDE9B7D5B99_w1024.jpg",
+    "answers": [{
+        "text": "Козацьке військо разом із татарськими союзниками",
+        "isRight": true
+    }, {
+        "text": "Військо Речі Посполитої",
+        "isRight": false
+    }, {
+        "text": "Шведське військо",
+        "isRight": false
+    }]
+},
+{
+    "question": "Звідки з'явилася назва 'Січ'?",
+    "photo": "unnamed.jpg",
+    "answers": [{
+        "text": "Бо козаки часто нападали на ворогів із засіки",
+        "isRight": false
+    }, {
+        "text": "Від від 'сікти', тобто 'рубати голови'",
+        "isRight": false
+    }, {
+        "text": "Від огорожі — частоколу",
+        "isRight": true
+    }]
+}
+
+]
