@@ -48,7 +48,7 @@ const createName = function() {
     return nameString;
 }
 const push = function() {
-    console.log(chalk.green('Начинаем выгрузку на сервер'));
+    console.log(chalk.green('Начинаем выгрузку на сервер, действие может занять несколько минут'));
     try {
         console.log(execSync(`git add . && git commit -m "${createName()}" && git push -f`).toString());
     }
